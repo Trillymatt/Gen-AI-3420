@@ -2,8 +2,8 @@ import React from 'react';
 import './globals.css';
 
 export const metadata = {
-  title: 'AI Recipe Generator',
-  description: 'Generate unique and personalized recipes using AI',
+  title: 'AI-Powered Recipe Generator',
+  description: 'Generate unique recipes using AI',
 };
 
 export default function RootLayout({
@@ -18,4 +18,4 @@ export default function RootLayout({
       </body>
     </html>
   );
-}
+} 
